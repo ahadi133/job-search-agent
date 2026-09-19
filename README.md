@@ -1,5 +1,4 @@
-"""
-job_search_agent.py
+**Job Search Agent**
 --------------------
 A small "agentic" job-search tool with a Tkinter GUI.
 
@@ -36,5 +35,4 @@ SETUP
 
 RUN
 ---
-    python job_search_agent.py
-"""
+    python job-search-agent.py
